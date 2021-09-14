@@ -1,7 +1,5 @@
 # Verificador-de-entradas
 
-[![NPM](https://img.shields.io/github/license/rjsilvaoficial/BancoUm)](https://github.com/rjsilvaoficial/BancoUm/blob/master/LICENSE) 
-
 # Sobre o projeto
 
 O Verificador de entradas é uma aplicação que visa ler e validar as seguintes informações:
